@@ -7,15 +7,18 @@ categories: feminism
 
 The aesthetic practice of shaving the legs and under the arms is undoubtedly a time consuming one. Very little research has been done to analyze the origins of this social norm - a norm which has recently become the topic of a frustrated debate. A contemporary notion amongst some members of the feminist community is that it is a male issue: primarily, that it originates from arbitrary or perverted male preferences, and secondarily, that it is perpetuated solely or predominantly by male expectations. A common argument is one by emotion, likening hairlessness preference to child sexualisation. What research has been done contradicts these ideas.
 
-Sexual preference of these youthful qualities has its root in evolutionary pressures rather than arbitrary social ones. Human denudation itself was likely a response to ectoparasitic threat (Rantala). Similarly, neoteny, which is present in a number of animal species far less social or arbitrary than humans, is both evolutionarily and sexually selected due to the accompaniment of faster onset sexual development in paedomorphic organisms (Ridley), and the greater biological viability of perceived young mothers.
+Sexual preference of these youthful qualities has its root in evolutionary pressures rather than arbitrary social ones. Human denudation itself was likely a response to ectoparasitic threat [1]. Similarly, neoteny, which is present in a number of animal species far less social or arbitrary than humans, is both evolutionarily and sexually selected due to the accompaniment of faster onset sexual development in paedomorphic organisms [2], and the greater biological viability of perceived young mothers.
 
-The perpetuation of the norm today is due in greater part to female preferences than male ones, and social pressures are created by male and female attitudes equally. The majority of adult women who remove body hair do so due to intrinsic reward, rather than societal pressures (Basow, Tiggemann), associating it positively with femininity, and whilst women are more likely to identify with feminist ideologies than men, negative attitudes and discrimination towards women who do not conform are not differentiated by gender (Basow & Braman). A fair and honest attribution of these social pressures can only be uniform and bilateral.
+The perpetuation of the norm today is due in greater part to female preferences than male ones, and social pressures are created by male and female attitudes equally. The majority of adult women who remove body hair do so due to intrinsic reward, rather than societal pressures [3, 4], associating it positively with femininity, and whilst women are more likely to identify with feminist ideologies than men, negative attitudes and discrimination towards women who do not conform are not differentiated by gender [5]. A fair and honest attribution of these social pressures can only be uniform and bilateral.
+
+All of this considered, we're evolved now. I leave my monkey prejudices at the door when I drag my hirsuit body through it [6], and I encourage other modern men to do the same.
 
 
 References:
 -----------
-- Basow, S. A. (1991). The hairless ideal: Women and their body hair. Psychology of Women Quarterly, 15(1), 83-96.
-- Basow, S. A., & Braman, A. C. (1998). Women and Body Hair Social Perceptions and Attitudes. Psychology of Women Quarterly, 22(4), 637-645.
-- Rantala, M. J. (1999). Human nakedness: adaptation against ectoparasites?. International journal for parasitology, 29(12), 1987-1989.
-- Ridley, Mark. "Neoteny", Evolution, Blackwell Publishing, 1985.
-- Tiggemann, M., & Kenyon, S. J. (1998). The hairlessness norm: The removal of body hair in women. Sex Roles, 39(11-12), 873-885.
+1. Rantala, M. J. (1999). Human nakedness: adaptation against ectoparasites?. International journal for parasitology, 29(12), 1987-1989.
+2. Ridley, Mark. "Neoteny", Evolution, Blackwell Publishing, 1985.
+3. Basow, S. A. (1991). The hairless ideal: Women and their body hair. Psychology of Women Quarterly, 15(1), 83-96.
+4. Tiggemann, M., & Kenyon, S. J. (1998). The hairlessness norm: The removal of body hair in women. Sex Roles, 39(11-12), 873-885.
+5. Basow, S. A., & Braman, A. C. (1998). Women and Body Hair Social Perceptions and Attitudes. Psychology of Women Quarterly, 22(4), 637-645.
+6. Your mother, 2014.
