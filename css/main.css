@@ -229,6 +229,11 @@ a:visited { color: #205caa; }
   font-size: 12px;
 }
 
+.post-content ul li,
+.post-content ol li { 
+  margin-bottom: 10px;
+}
+
 .post pre,
 .post code {
   border: 1px solid #d5d5e9;
