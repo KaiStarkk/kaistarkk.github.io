@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Eurotrip Confirmed."
-date:   2014-06-07 21:48:50
+date:   2014-06-07 21:48:50 +0800
 categories: europe
 ---
 
@@ -19,13 +19,14 @@ After a few days in the city of love, we're scooting off to Amsterdam for a 420 
 
 Next is Berlin where I would meet up with my hacker friends if I had any from Germany (how did that happen?). I really look forward to drinking beer from a glass that I would be able to fit my head into if it were only normal-sized. <Error 404: Hitler joke not found>. Staying at [Plus Berlin](http://www.plushostels.com/plusberlin).
 
-*Aside: The paragraphs will continue to shrink as it slowly dawns on me that I should be studying for [exams]({% post_url 2014-06-07-procrastination-posts-incoming %}).*
+*Aside: The paragraphs will continue to shrink as it slowly dawns on me that I should be studying for [exams]({% post_url 2014-06-06-procrastination-posts-incoming %}).*
 
 After Berlin is Prague, where there'll be beautiful architecture.
 
 Vienna.
 
 Mother Italy:
+
 1. Venice - canal city a.k.a. Perth + 20 years. Shakespeare etc.
 2. Roma - Too much to name here.
 3. Vatican City - highest popes per capita in the world.

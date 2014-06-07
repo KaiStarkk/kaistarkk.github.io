@@ -224,15 +224,17 @@ a:visited { color: #205caa; }
 }
 
 .post-content ul,
-.post-content ol { 
-  list-style: none;
+.post-content ol { padding-left: 20px; }
+
+/* For References */
+.post-content h2+ol { 
   font-size: 12px;
 }
 
-.post-content ul li,
-.post-content ol li { 
-  margin-bottom: 10px;
+.post-content h2+ol li { 
+  margin-bottom: 5px;
 }
+/* ------------- */
 
 .post pre,
 .post code {

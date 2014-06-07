@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Modern feminist ascriptions: attitudes towards body hair removal."
-date:   2014-06-07 12:51:37
+date:   2014-06-07 12:51:37 +0800
 categories: feminism
 ---
 
