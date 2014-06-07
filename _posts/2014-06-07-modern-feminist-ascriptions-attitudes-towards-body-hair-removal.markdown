@@ -9,7 +9,7 @@ The aesthetic practice of shaving the legs and under the arms is undoubtedly a t
 
 Sexual preference of these youthful qualities has its root in evolutionary pressures rather than arbitrary social ones. Human denudation itself was likely a response to ectoparisitic threat (Rantala). Similarly, neoteny, which is present in a number of animal species far less social or arbitrary than humans, is both evolutionarily and sexually selected due to the accompaniment of faster onset sexual development in paedomorphic orgamisms (Ridley), and the greater biological viability of perceived young mothers.
 
-The perpetuation of the norm today is due in greater part to female preferences than male ones, and social pressures are created by male and female attitudes equally. The majority of adult women who remove body hair do so due to intrinsic reward, rather than societal pressures (Basow, Tiggemann), associating it positively with femininity, and whilst women are more likely to identify with feminist ideologies than men, attitudes and discrimination towards women who do not conform - that is to say the fair attribution of the social pressures - is not differentiated by gender (Basow & Braman).
+The perpetuation of the norm today is due in greater part to female preferences than male ones, and social pressures are created by male and female attitudes equally. The majority of adult women who remove body hair do so due to intrinsic reward, rather than societal pressures (Basow, Tiggemann), associating it positively with femininity, and whilst women are more likely to identify with feminist ideologies than men, negative attitudes and discrimination towards women who do not conform are not differentiated by gender (Basow & Braman). A fair and honest attribution of these social pressures can only be uniform and bilateral.
 
 
 References:
@@ -17,5 +17,5 @@ References:
 - Basow, S. A. (1991). The hairless ideal: Women and their body hair. Psychology of Women Quarterly, 15(1), 83-96.
 - Basow, S. A., & Braman, A. C. (1998). Women and Body Hair Social Perceptions and Attitudes. Psychology of Women Quarterly, 22(4), 637-645.
 - Rantala, M. J. (1999). Human nakedness: adaptation against ectoparasites?. International journal for parasitology, 29(12), 1987-1989.
-- Tiggemann, M., & Kenyon, S. J. (1998). The hairlessness norm: The removal of body hair in women. Sex Roles, 39(11-12), 873-885.
 - Ridley, Mark. "Neoteny", Evolution, Blackwell Publishing, 1985.
+- Tiggemann, M., & Kenyon, S. J. (1998). The hairlessness norm: The removal of body hair in women. Sex Roles, 39(11-12), 873-885.
