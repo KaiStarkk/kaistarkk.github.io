@@ -1,0 +1,11 @@
+# Site settings
+username: KaiStarkk
+title: kai.systems
+email: kieran.m.hannigan@gmail.com
+description: "A place where Kieran Hannigan puts things on the internet."
+baseurl: ""
+url: "http://kai.systems"
+
+# Build settings
+markdown: kramdown
+permalink: pretty

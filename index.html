@@ -1,48 +1,20 @@
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>kai.systems</title>
-	<link rel="stylesheet" href="style.css" />
-</head>
-<body>
+---
+layout: default
+---
 
-	<div id="main">
-		<h1><a href="index.html">kai.systems</a></h1>
-		<h2>A place where Kieran Hannigan puts things on the internet</h2>
+<div class="home">
 
-		<div class="row">
-			<div class="icon" id="cal-btn"><img src="images/gcal.png" alt="Google Calendar"></div>
-			<p>I'm busy essentially all the time. <br /> On the off chance that I'm not, you'll be able to tell by having a look here.</p>
-		</div>
+  <h1>Posts</h1>
 
-		<div class="row reveal" id="cal-slide">
-			<div class="divide"></div>
-			<div id="cal-frame"><iframe src="https://www.google.com/calendar/embed?mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=05ug3j6gko6c590tjt5jlnf85k%40group.calendar.google.com&amp;color=%235229A3&amp;src=overyonderstudios%40gmail.com&amp;color=%236B3304&amp;src=t2fft4jre9aj5lssuo9qqoaf38%40group.calendar.google.com&amp;color=%23711616&amp;src=qhoq3s4f2rqoog4bd1h5fp5mm0%40group.calendar.google.com&amp;color=%23875509&amp;src=vm000lcbif5r5c66hm9v3e0rbg%40group.calendar.google.com&amp;color=%2328754E&amp;src=en.australian%23holiday%40group.v.calendar.google.com&amp;color=%232F6309&amp;ctz=Australia%2FPerth" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe></div>
-		</div>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
 
-		<div class="row">
-			<div class="divide"></div>
-			<p>...and here's a nifty little tool for monitoring my stress levels.</p>
-			<div class="icon circle" id="stress-btn"><img src="images/stress.jpg" alt="Google Calendar"></div>
-		</div>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-		<div class="row reveal" id="stress-slide">
-			<div class="divide"></div>
-			<div id="stress-frame"><iframe src="https://docs.google.com/spreadsheet/pub?key=0Aj-ORFjJl4XudEN5a1dKd3lGZEVRTXVZVFJ0VWd3UFE&output=html" width="1770" height="662" frameborder="0" scrolling="no"></iframe></div>
-		</div>
-
-		<div class="row reveal" id="apps">
-			<div class="divide"></div>
-			<div class="icon circle"><a href="https://home.kai.systems:9090"><img class="circle" src="images/sabnzbd.png" alt="SABnzbd"></div></a>
-			<div class="icon"><a href="https://home.kai.systems:8081"><img src="images/sickbeard.png" alt="Sickbeard"></div></a>
-			<div class="icon"><a href="https://home.kai.systems:5050"><img src="images/couchpotato.png" alt="Couchpotato"></div></a>
-		</div>
-	</div>
-
-
-	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-	<script type="text/javascript" src="script.js"></script>
-</body>
-
-</html>
+</div>
