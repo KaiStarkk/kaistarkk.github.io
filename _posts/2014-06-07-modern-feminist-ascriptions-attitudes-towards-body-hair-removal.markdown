@@ -2,7 +2,7 @@
 layout: post
 title:  "Modern feminist ascriptions: attitudes towards body hair removal."
 date:   2014-06-07 12:51:37 +0800
-categories: feminism
+categories: blog posts feminism
 ---
 
 The aesthetic practice of shaving the legs and under the arms is undoubtedly a time consuming one. Very little research has been done to analyze the origins of this social norm - a norm which has recently become the topic of a frustrated debate. A contemporary notion amongst some members of the feminist community is that it is a male issue: primarily, that it originates from arbitrary or perverted male preferences, and secondarily, that it is perpetuated solely or predominantly by male expectations. A common argument is one by emotion, likening hairlessness preference to child sexualisation. What research has been done contradicts these ideas.

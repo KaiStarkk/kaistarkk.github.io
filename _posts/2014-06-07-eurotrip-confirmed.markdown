@@ -2,7 +2,7 @@
 layout: post
 title:  "Eurotrip Confirmed."
 date:   2014-06-07 21:48:50 +0800
-categories: europe
+categories: blog posts travel
 ---
 
 To the seismologists reading this, sorry - that was my bank account balance.

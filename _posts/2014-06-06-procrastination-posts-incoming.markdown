@@ -2,7 +2,7 @@
 layout: post
 title:  "Procrastination posts incoming."
 date:   2014-06-06 17:24:17 +0800
-categories: meta
+categories: blog posts meta
 ---
 
 Examination season is upon us. Consequently you can expect to see a number of posts that are in no way related to my course content being posted here over the next few weeks.
