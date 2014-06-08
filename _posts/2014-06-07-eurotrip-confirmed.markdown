@@ -17,7 +17,7 @@ Then we're getting into a metal cylinder to be propelled through a conduit that 
 
 After a few days in the city of love, we're scooting off to Amsterdam for a 420 blaze-it-up red light district culture shock (I kid), where we're staying at [The Flying Pig](http://www.flyingpig.nl/), which our travel advisor almost had a seizure telling us about. I'm expecting everyone to be albino blond, and continuously riding antiseptic-white bicycles between their favourite hipster coffee shops (at each of which I should see at least one casual businessman toking from an arm-long blunt). Don't disappoint me "The Netherlands". (I kid).
 
-Next is Berlin where I would meet up with my hacker friends if I had any from Germany (how did that happen?). I really look forward to drinking beer from a glass that I would be able to fit my head into if it were only normal-sized. <Error 404: Hitler joke not found>. Staying at [Plus Berlin](http://www.plushostels.com/plusberlin).
+Next is Berlin where I would meet up with my hacker friends if I had any from Germany (how did that happen?). I really look forward to drinking beer from a glass that I would be able to fit my head into if it were only normal-sized. \<Error 404: Hitler joke not found\>. Staying at [Plus Berlin](http://www.plushostels.com/plusberlin).
 
 *Aside: The paragraphs will continue to shrink as it slowly dawns on me that I should be studying for [exams]({% post_url 2014-06-06-procrastination-posts-incoming %}).*
 
