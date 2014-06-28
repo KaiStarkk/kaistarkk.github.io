@@ -38,4 +38,4 @@ Then to Nice, which is the city in France that people my age only know for its a
 
 Penultimately Barcelona for a week.
 
-Finally Istanbul for a few days before we fly back home, to arrive on August the 2nd just in time to have missed the first week of uni.
+Finally Istanbul for a few days before we fly back home, to arrive on August the 3rd just in time to have missed the first week of uni.
