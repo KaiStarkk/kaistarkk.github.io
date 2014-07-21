@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Firenze, pt. II"
+date:   2014-07-21 18:35:00 +0100
+categories: blog posts travel
+---
+
+If you've noticed the dates on some of these posts, you'll realise that I've written the last three in the space of about an hour. This is because we've been without a decent internet connection for some points in the trip, and I'm eager to record the stops before I forget them entirely. As a result I'm brief, and there's a lot more that I have forgotten, or would have liked to write more thoroughly about about if I could take the proper time for the task (such as the Memorial to the Murdered Jews of Europe, the book burning monument, and the bike ride through the Tiergarten), but time is short.
+
+The next destination on our tour was Vienna. We were only to stay one night in Vienna before leaving very early, and Grace and I decided to take different paths for the evening.
+
+I went on a shrot walking tour through Vienna, and I was blown off my feet by the city's beauty. It's a fairly wealthy city, and Austrian rulers tended build themselves new palaces instead of inhabiting the ones of their predecessors. As a result, Vienna has earned the well deserved epithet of "City of 100 Palaces" (as Prague did its: "City of a Hundred Spires"). The Habsburg family was well covered which I didn't anticipate, and the guide's overview of the Holy Roman Empire and old Europe was very well constructed. The layed back culture and wonderful food in Vienna is so enticing, I hope maybe one day I'll live there. Additionally, on our trip to and from the city, we were enthralled by the most picturesque mountains and countryside in all of the trip.
+
+It's worth mentioning here that along each leg of the Busabout trip, there are intermediate stops that people can stay at. This included cities like Bruges between Paris and Amsterdam, and a place called Grenau on our next leg. The hostel in Grenau alla Busabout was basically a man's house, perched in the middle of the Austrian countryside. Those who stayed there said that they enjoyed hiking through the mountainside, and archery (a personal favourite), as well as the beautiful crystal stream that flowed through the property. I was more than a little jealous when we stopped there for lasagne, but we moved on to the destinatinon without too much convincing. The next stop was Munich.
+
+Now Bavarian Germany is different to the rest of Germany. Berlin and Munich are two very different cities, and that was immediately obvious. Bavaria is the Germany you think of when you think of busty blonde Helgas in their frocks delivering 10 maßes (maß is the word used, not stein which means stone) to the tables of German men in lederhosens chewing on pork knuckles. We did indeed eat pork knuckle, and I can confidently say that its the best food in the world. We ate this at the beer garden stop on our bike tour through the city, a beergarden where I also ate a pizza sized pretzel and drank a maß (one litre) of delicious (and strong) weisbeer. Munich has its own intriguing history (as every stop on our trip does), but instead of recounting every detail I'll strive to remember and point out the significant or funny parts (like the fountain in district one of Vienna where the artist wasn't payed his due, and decided to revise the statue to feature a bare behind facing the window of the casino boss who commissioned it). In Munich the most significant things were the strength of the Church, and Hitler's rise to power there. Our tours were filled with anecdotes that promoted thought such as the story of the White Rose Society. Anyone interested can look further into these things.
+
+After Munich, our next stop was Venice, in my motherland: Italy.
