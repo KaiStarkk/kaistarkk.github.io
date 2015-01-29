@@ -7,7 +7,7 @@ categories: blog posts travel
 
 In the last post I documented our stay in Paris. It's a truly beautiful city, and we were sad to leave after only a couple nights when we left on our first Busabout leg bound for Amsterdam. Busabout is an interesting alternative to trains and flights in Europe. They market themselves as a "hop-on hop-off" choice, though the busses often fill up before the day of departure. The busses always leave at 8am, which can be a pain when you're a long way from the pick-up hostel, and they typically arrive around 5pm on the same day. There are service stops roughly every two hours. The service is a good one, although I think our choice to book the North, West, and South loops until October as opposed to paying for each leg of the trip may have been a mistake. Travel agents really should point these things out. Anyways.
 
-Amsterdam is a great city, but only for two days. After that, the smell of weed (which is everywhere) starts to make you feel nauseous. Our hostel was pretty good, although they messed up our booking (we were compensated with drinks). 
+Amsterdam is a great city, but only for two days. After that, the smell of weed (which is everywhere) starts to make you feel nauseated. Our hostel was pretty good, although they messed up our booking (we were compensated with drinks). 
 
 Amsterdam was my first experience with survival of the fittest - I was almost killed by a tram ten minutes into the stop because they barely demarcate the dividing lines between footpath, road, and rail lines (the bitchumen slightly changes colour). Unfortunately, we didn't have the opportunity to visit Anne Frank House [sic]. We also went on a pubcrawl but I don't remember a whole lot about that.
 
