@@ -4,6 +4,6 @@ layout: default
 
 <div class="home">
 
-  <p>Aaaand, we're back.</p>
+  <p>Kieran Hannigan. Electrical & Electronics Engineering (MPE, BSci), Computer Science (BSci)</p>
 
 </div>
